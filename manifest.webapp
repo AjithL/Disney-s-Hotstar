@@ -1,0 +1,24 @@
+{
+  "version": "2.0",
+  "fullscreen": "true",
+  "name": "IPL T20",
+  "description": "KaiOS devices like JioPhone",
+  "type": "certified",
+  "ime_default_softkey_bar": true,
+  "cursor": true,
+  "start_url": https://www.iplt20.com/",
+  "developer": {
+    "name": "Play Technical Tamil Ajith",
+	"url":"https://www.iplt20.com/"
+  },
+  "default_locale": "en-US",
+  "display":"browser",
+  "locales": {
+    "en-US": {
+      "name":"IPL T20"
+	}
+  },
+  "icons": {
+    "128": "/icon.png"
+  }
+}
